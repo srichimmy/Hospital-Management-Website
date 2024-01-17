@@ -31,4 +31,9 @@ HTML5, CSS3, JavaScript: Ensure you have a good grasp of these fundamental web
 technologies.
 CSS Frameworks (optional but recommended for faster development): Bootstrap, 
 Foundation, etc
+# Use Case Diagram
+A use case diagram for a hospital management website represents the interactions between 
+different users and the system to accomplish specific tasks or functionalities. Here is a simplified 
+use case diagram for a hospital management website:
 
+<img width="474" alt="Screenshot 2024-01-17 115234" src="https://github.com/srichimmy/HospitalManagementWebsite/assets/121282475/1ae8a864-81a1-43a0-bba0-2628ca77922c">
